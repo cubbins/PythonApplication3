@@ -1,6 +1,8 @@
 # PythonApplication3# PythonApplication3
 
-
+Git Gui
+Git Bash
+cubbi@AIPC MING64 ~/source/repos/PythonApplication3
 
 echo "# PythonApplication3" >> README.md
 
